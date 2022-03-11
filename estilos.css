@@ -30,7 +30,8 @@ td {
 	border: thin solid green;
     padding: 4px;
 }
-.odd {
+
+tr {
 	background-color: white;
 }
 
