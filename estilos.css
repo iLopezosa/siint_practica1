@@ -3,7 +3,7 @@ body {
 	font-family: sans-serif;
 }
 
-h1 {
+h2 {
 	color: green;
 	text-align: center;
 }
@@ -16,19 +16,24 @@ table{
 
 thead tr {
 	background-color: green;
-	color: #F6F4F0;
-    margin: 0;
-    border-color: green;
+	color: white;
 }
 
 th {
 	font-weight: normal;
+	text-align: left;
+	padding: 4px ;
+	border: 1px solid green;
 }
 
 td {
-	border: 1px solid green;
-    padding: 2px;
+	border: thin solid green;
+    padding: 4px;
 }
+.odd {
+	background-color: white;
+}
+
 .even {
 	background-color: #dfd;
 }
