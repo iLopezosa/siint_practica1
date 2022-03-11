@@ -2,3 +2,40 @@ body {
 	background-color: #F6F4F0;
 	font-family: sans-serif;
 }
+
+h1 {
+	color: green;
+	text-align: center;
+}
+
+table{
+    border: 1px solid green;
+    border-collapse: collapse;
+}
+
+
+thead tr {
+	background-color: green;
+	color: #F6F4F0;
+    margin: 0;
+    border-color: green;
+}
+
+th {
+	font-weight: normal;
+}
+
+td {
+	border: 1px solid green;
+    padding: 2px;
+}
+.even {
+	background-color: #dfd;
+}
+
+.mas {
+	color: green;
+    text-align: center;
+}
+
+
